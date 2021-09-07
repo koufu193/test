@@ -7,5 +7,6 @@ public class Main extends JFrame {
         main.setTitle("test");
         main.setVisible(true);
         main.setDefaultCloseOperation(EXIT_ON_CLOSE);
+        // test
     }
 }
